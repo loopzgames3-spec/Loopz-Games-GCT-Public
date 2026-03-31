@@ -3,6 +3,7 @@ Game Creation Tool — Public Development Release
 
 Loopz Games G.C.T officially releases to the public on **April 8, 2026**. The program is still under active development but we are committed to giving continuous support, fixing bugs as they appear and adding new features regularly.
 
+
 > ⚠️ **Windows only for now.** Support for MacOS and Linux is planned for future updates.
 
 ⁜⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⁜
