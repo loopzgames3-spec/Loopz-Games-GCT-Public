@@ -34,7 +34,7 @@ That's all for today.
 ⁜⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⌁⁜
 
 ## 🔧 Update Log 1.0.1 — Bug Fixes & New Features
-**📅 April 8, 2026**
+**📅 March 31, 2026**
 
 This update focuses on fixing a critical crash bug in the Sprite Editor and introducing the new built-in auto-update system so future updates reach you automatically without needing to check manually.
 
